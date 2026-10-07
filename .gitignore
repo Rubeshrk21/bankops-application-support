@@ -1,0 +1,19 @@
+# Generated backup archives
+backups/*.tar.gz
+
+# Runtime and scheduled-job logs
+logs/runtime.log
+logs/cron_backup.log
+
+# Temporary test logs
+logs/large_test.log
+logs/permission_test.log
+
+# Temporary/editor files
+*.swp
+*.swo
+*~
+
+# Python cache files
+__pycache__/
+*.pyc

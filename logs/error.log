@@ -1,0 +1,4 @@
+2026-10-01 10:30:02 ERROR DB_TIMEOUT Transaction TXN10004 Database connection timeout while processing transaction
+2026-10-01 11:00:03 ERROR ACCOUNT_BLOCKED Transaction TXN10005 Transaction rejected because account is blocked
+2026-10-01 12:05:10 WARN PROCESSING_DELAY Transaction TXN10007 Transaction processing exceeded expected response time
+2026-10-01 13:45:02 ERROR DB_TIMEOUT Transaction TXN10010 Database connection timeout while processing transaction
